@@ -1,9 +1,14 @@
 # CHANGELOG
 
-## [v0.0.2 add new lab, check_files, lib - lab2] - 23-09-2024:
+## [v0.0.2.5 fixes - lab2] - 28-09-2024:
+### CHANGED:
+- lab2
+
+## [v0.0.2 add new lab, check_files, lib - lab2] - 28-09-2024:
 ### ADD:
 - matplotlib 
 - skikit
+- pandas
 - lab2
 - data-sets(lab2, temp data files)
 - temp files
